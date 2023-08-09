@@ -80,17 +80,11 @@ body{
 .up{
  cursor: pointer; 
  border: none;
- background-color: #21139c;
- background-color: #ff8177;
- background-image: linear-gradient(to top, #f708ff 0%, #d8ff99 100%);
- background-size: 100%;
- -webkit-background-clip: text;
- -moz-background-clip: text;
- -webkit-text-fill-color: transparent;
- -moz-text-fill-color: transparent;
+  text-decoration-line: none;
+  color: white;
 }
 .up:active{
   font-size: 20px;
   font-weight: 400;
-  background-color: #2a9c13;
+  color: #f708ff;
 }
