@@ -39,6 +39,7 @@ body{
   align-items: center;
   text-transform: capitalize;
   font-size: 15px;
+  gap: 20px;
   font-weight: 500;
 }
 .flex{
